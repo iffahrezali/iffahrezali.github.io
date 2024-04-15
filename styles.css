@@ -1,0 +1,9 @@
+#introduction > div{
+    padding: 50px;
+    background-color: hotpink;
+    display: inline-block;
+}
+.smalltext{
+    padding-top: 5px;
+    font-size: 25px;
+}
